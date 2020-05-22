@@ -1,0 +1,18 @@
+tesseract installohttps://github.com/UB-Mannheim/tesseract/wiki 
+read text from pdfshttps://www.c-sharpcorner.com/blogs/reading-contents-from-pdf-word-text-files-in-c-sharp1 
+.net core image prochttps://devblogs.microsoft.com/dotnet/net-core-image-processing/  
+ 
+tesseract in .nethttps://medium.com/@fatih_yildizli/tesseract-ocr-implementation-in-net-core-spring-boot-6f876a5d4ae5  
+
+ 
+jeremy lindsaytesseract in desktop appshttps://jeremylindsayni.wordpress.com/2016/03/19/optical-character-recognition-with-c-in-classic-desktop-and-universal-windows-applications-part-1-using-tesseract/  
+
+blazor file uploadhttps://blog.stevensanderson.com/2019/09/13/blazor-inputfile/
+-- 
+blazor copy to clipboardhttps://chrissainty.com/copy-to-clipboard-in-blazor
+color names\https://www.w3schools.com/colors/colors_names.asp  
+ 
+Cesar Castano
+PwC | Contractor, Internal Firm Services
+WhatsApp: +598 96 700 330Montevideo, Uruguay
+Email: cesar.alfredo@pwc.com
